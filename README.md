@@ -1,2 +1,2 @@
-# Project1
-Udacity Project 1
+# Webpage Mockup
+Extract all files to a folder and run index.html in a browser.
